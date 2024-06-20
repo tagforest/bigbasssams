@@ -1,11 +1,11 @@
 {
-"Enable": false,
+"Enable": true,
 "Locale": ["Russian"],
 "Times": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
     "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
     "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
 "Links":
 [
-  { "Lang":"Russian", "Link": [""]}
+  { "Lang":"Russian", "Link": ["https://getmaxluck.com/?s=35&ref=wp_w164086p143_Sams&encoded_url=cmVnaXN0ZXI="]}
 ]
 }
