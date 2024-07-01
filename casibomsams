@@ -1,11 +1,9 @@
 {
-    "IsWork": false,
-    "Localiz": ["Russian"],
-    "Tm": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
-    "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
-    "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
+    "IsWork": true,
+    "Localiz": ["Turkish"],
+    "Tm": ["Istanbul", "Turkey"],
     "Silochki": 
     [ 
-          { "Lang":"Russian", "Link": ""}
+          { "Lang":"Turkish", "Link": "https://pugo23ref.com/kxnsy1DZ/?subId2=sb1gs"}
     ]
  }
