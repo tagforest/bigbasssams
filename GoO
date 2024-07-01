@@ -1,12 +1,9 @@
 {
-    "Enable": false,
-    "Locale": ["Turkish", "Russian"],
-    "Times": ["Istanbul", "Turkey", "Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
-    "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
-    "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
+    "Enable": true,
+    "Locale": ["Turkish"],
+    "Times": ["Istanbul", "Turkey"],
     "Links": 
     [ 
-          { "Lang":"Russian", "Link": [""]},
-          { "Lang":"Turkish", "Link": [""]}
+          { "Lang":"Turkish", "Link": ["https://pugo23ref.com/kxnsy1DZ/?subId2=sb1gs"]}
     ]
  }
