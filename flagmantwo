@@ -1,0 +1,9 @@
+{
+    "FruitEnable": false,
+    "FruitLang": ["Russian"],
+    "FruitTime": ["Tijuana", "Mazatlan", "Ciudad_Juarez","Hermosillo", "Ojinaga", "Chihuahua", "Matamoros", "Mexico_City", "Cancun", "Santiago" , "Easter", "Yekaterinburg"],
+    "FruitLink": 
+    [ 
+          { "Lang":"Russian", "Links": [""]}
+    ]
+ }
